@@ -1,0 +1,3 @@
+#sjtable .table-cell 
+{-fx-alignment: center }
+.table-row-cell:hover{-fx-background-color: yellowgreen}
